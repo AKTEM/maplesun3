@@ -29,11 +29,11 @@ export const FeaturedArticles: React.FC<FeaturedArticlesProps> = ({ articles }) 
         <div className="text-center">
           <Award className="w-12 h-12 text-red-600 mx-auto mb-3" />
           <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
-            In-Depth Canadian Perspectives
+            In-Depth World Perspectives
           </h3>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Comprehensive analysis and thoughtful commentary on Canadian culture, history, and current events 
-            that shape our nation's identity and future.
+            Comprehensive analysis and thoughtful commentary on Culture, history, and current events 
+            that shape our World's identity and future.
           </p>
         </div>
       </div>

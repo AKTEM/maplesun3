@@ -29,11 +29,11 @@ export const Resources: React.FC<ResourcesProps> = ({ articles }) => {
         <div className="text-center">
           <Archive className="w-12 h-12 text-red-600 mx-auto mb-3" />
           <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
-            Your Canadian Knowledge Hub
+            Your Knowledge Hub of the World
           </h3>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Comprehensive resources covering Canadian history, culture, and travel. 
-            Essential guides and references for understanding Canada's rich heritage.
+            Comprehensive resources covering World history, culture, and travel. 
+            Essential guides and references for understanding Global rich heritage.
           </p>
         </div>
       </div>

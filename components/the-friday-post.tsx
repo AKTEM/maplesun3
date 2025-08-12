@@ -32,8 +32,7 @@ export const TheFridayPost: React.FC<TheFridayPostProps> = ({ articles }) => {
             Weekly Podcast Highlights
           </h3>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Dive deep into Canadian stories with our weekly podcast series. Authentic conversations, 
-            expert interviews, and compelling narratives that showcase the Canadian experience.
+            Authentic conversations, expert interviews, and compelling narratives that showcase the Global experience.
           </p>
         </div>
       </div>

@@ -53,7 +53,7 @@ export function Footer() {
 
           {/* Special Sections */}
           <div>
-            <h4 className="text-lg font-semibold mb-4 text-red-500">Special Sections</h4>
+            <h4 className="text-lg font-semibold mb-4 text-red-500">Beyond the Headlines</h4>
             <ul className="space-y-2">
               <li><Link href="/events" className="text-gray-400 hover:text-white transition-colors">Events</Link></li>
               <li><Link href="/explore-canada" className="text-gray-400 hover:text-white transition-colors">Explore Canada</Link></li>
@@ -80,8 +80,17 @@ export function Footer() {
                 <Mail className="w-4 h-4" />
                 <span>socials@mapleepoch.com</span>
               </li></span>
-             
-              </li>
+
+            </li>
+
+             <li className="flex items-center space-x-2 text-gray-400">
+              
+                <span> <li className="flex items-center space-x-2 text-gray-400">
+                <MapPin className="w-4 h-4" />
+                <span>V0B 1N0</span>
+              </li></span>
+
+            </li>
              
             </ul>
             <div className="mt-6">

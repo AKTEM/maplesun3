@@ -29,11 +29,11 @@ export const Events: React.FC<EventsProps> = ({ articles }) => {
         <div className="text-center">
           <PartyPopper className="w-12 h-12 text-red-600 mx-auto mb-3" />
           <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
-            Canadian Events Calendar
+            World Events Calendar
           </h3>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Discover festivals, conferences, and cultural events happening across Canada. 
-            From coast to coast celebrations that showcase our nation's vibrant spirit.
+            Discover festivals, conferences, and cultural events happening across the World. 
+            From coast to coast celebrations that showcase our Global vibrant spirit.
           </p>
         </div>
       </div>

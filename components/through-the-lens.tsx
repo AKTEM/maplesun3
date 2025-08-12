@@ -29,11 +29,11 @@ export const ThroughTheLens: React.FC<ThroughTheLensProps> = ({ articles }) => {
         <div className="text-center">
           <Camera className="w-12 h-12 text-red-600 mx-auto mb-3" />
           <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
-            Capturing Canada's Beauty
+            Capturing the World's Beauty
           </h3>
           <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             Professional photography insights, local secrets, and seasonal guides to help you 
-            capture the essence of Canada through your lens.
+            capture the essence of the World through your lens.
           </p>
         </div>
       </div>
